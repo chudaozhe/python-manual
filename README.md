@@ -1,5 +1,8 @@
 
 # Python 语言参考
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chudaozhe/python-manual/HEAD)
+
 4.26 ～ 4.29
 
 * [前言](README.md)
@@ -26,6 +29,3 @@
 
 ## 参考
 https://www.cnblogs.com/9808081314mlr/p/16542217.html
-
-## 在线运行
-https://mybinder.org/
